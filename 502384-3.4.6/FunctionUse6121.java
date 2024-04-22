@@ -1,0 +1,6 @@
+import org.apache.ibatis.javassist.bytecode.SignatureAttribute.TypeVariable;
+public class FunctionUse6121 {
+public void funcUse() {
+TypeVariable typevariable = new TypeVariable();
+}
+}

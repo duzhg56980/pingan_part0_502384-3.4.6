@@ -1,0 +1,7 @@
+import org.apache.ibatis.datasource.unpooled.UnpooledDataSource;
+public class FunctionUse2878 {
+public void funcUse() {
+UnpooledDataSource unpooleddatasource = new UnpooledDataSource();
+unpooleddatasource.setDriverProperties(null);
+}
+}

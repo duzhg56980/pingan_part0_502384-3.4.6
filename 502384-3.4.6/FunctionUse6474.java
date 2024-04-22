@@ -1,0 +1,7 @@
+import org.apache.ibatis.javassist.bytecode.analysis.MultiArrayType;
+public class FunctionUse6474 {
+public void funcUse() {
+MultiArrayType multiarraytype = new MultiArrayType();
+multiarraytype.isAssignableFrom(null);
+}
+}

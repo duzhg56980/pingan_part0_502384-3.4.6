@@ -1,0 +1,6 @@
+import org.apache.ibatis.reflection.invoker.SetFieldInvoker;
+public class FunctionUse2399 {
+public void funcUse() {
+SetFieldInvoker setfieldinvoker = new SetFieldInvoker();
+}
+}
